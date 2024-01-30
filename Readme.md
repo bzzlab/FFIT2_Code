@@ -1,4 +1,4 @@
-# SOLUTIONS FFIT-2 - Grundlagen Server-Programmierung
+# FFIT-2 - Grundlagen Server-Programmierung
 
 ### Code zum Freifach
 Die enstprechenden Lernziele finden Sie auf http://ict.bzzlab.ch, anschliessend Ihren Jahrgang wählen.
