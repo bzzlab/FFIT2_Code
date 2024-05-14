@@ -1,0 +1,9 @@
+//import users from model
+//??
+//export users
+//??
+    // Emit all user as array
+//??
+//??
+//??
+//??
