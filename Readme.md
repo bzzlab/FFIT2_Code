@@ -18,4 +18,4 @@ Response (Antwort vom Server):
 <img src="img/03.png" width="60%" height=auto />
 
 ### Websockets
-<img src="img/websockets.jpg" width="60%" height=auto />
+<img src="img/04.jpg" width="60%" height=auto />
