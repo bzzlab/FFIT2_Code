@@ -16,3 +16,6 @@ Response (Antwort vom Server):
 
 ### Eingesetzte Technologien und Tools
 <img src="img/03.png" width="60%" height=auto />
+
+### Websockets
+<img src="img/websockets.jpg" width="60%" height=auto />
